@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Deep learning
 classes : wide
 author_profile: true
 title: "Demystifying Auto-Encoders"
@@ -11,7 +12,7 @@ excerpt: "Vanilla Auto encoder"
 toc_sticky : false
 image: /images/blog_posts/autoencoder_architecture.png
 display_html_image: false
-tags: featured reading
+tags: featured reading,DL
 header-includes: |
     \usepackage{tikz,pgfplots}
     \usepackage{fancyhdr}
