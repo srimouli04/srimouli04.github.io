@@ -9,6 +9,8 @@ toc_icon: "list"
 canonical_url: "https://srimouli04.github.io/sound_and_emotion"
 excerpt: "How Sound Shapes Emotion"
 toc_sticky : false
+image: /images/blog_posts/autoencoder_architecture.png
+display_html_image: false
 
 header-includes: |
     \usepackage{tikz,pgfplots}
