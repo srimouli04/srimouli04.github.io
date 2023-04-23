@@ -6,9 +6,7 @@ permalink: /about/
 #image: images/mouli_cover.png
 ---
 
-![](/images/profile_images/mouli_cover.png)  
-
-Highly capable, creative, result oriented professional with strong technology background.
+![](/images/profile_images/Srimouli Borusu-cv2.png) 
 
 I've graduated with Masters from Birla Institute of Technology and Science, Pilani, India (BITS Pilani) in February of 2022, after spending two exciting years. <br>
 
@@ -21,6 +19,7 @@ Artificial Intelligence, Deep Learning, Natural Language Processing, Computer vi
 
 I love to work on challenging problems and make significant contributions to interesting, high-impact projects.
 
-<b>Contact</b>
-Email ID: <a href='mailto:srimouli04@gmail.com'> srimouli04@gmail.com </a>
-
+<b>Contact me:</b> 
+<br>
+Email ID: <a href='mailto:srimouli04@gmail.com'> <u>srimouli04@gmail.com</u> </a>
+<br>

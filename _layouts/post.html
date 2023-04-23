@@ -51,14 +51,10 @@ layout: default
           {{ content }}
 
           <hr />
-          <p>
-            Photo by <a
-              href="https://unsplash.com/@{{ page.handleofthephotographer }}?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
-              target="_blank" rel="noopener noreferrer">{{ page.photographer }}</a> on <a
-              href="https://unsplash.com?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank"
-              rel="noopener noreferrer">Unsplash</a>
+          <!--p>
+            Photo Source(s) : <a href={{page.photosource}} target="_blank" rel="noopener noreferrer">{{ page.photographer }}</a> 
 
-          </p>
+          </p-->
         </div>
 
         <div class="post__share">
@@ -86,6 +82,7 @@ layout: default
         <div class="author-image-box">
           <a href="{{site.baseurl}}/about/" class="author__image" style="background-image: url({{site.baseurl}}{{site.author.image}})" aria-label="{{site.author.name}}"></a>
           <a class="author__name" href="{{site.baseurl}}/about/">{{site.author.name}}</a>
+          <a class="author__designation">{{site.author.designation}}</a>
         </div>
 
         <div class="post__navigation">

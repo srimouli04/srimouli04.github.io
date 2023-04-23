@@ -1,5 +1,6 @@
 ---
 layout: post
+category: general
 classes : wide
 author_profile: true
 title: "The Power of Intonation"
