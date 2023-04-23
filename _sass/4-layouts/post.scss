@@ -134,8 +134,8 @@
 
   .author__image {
     display: block;
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     margin-right: 15px;
     border-radius: 50%;
     text-decoration: none;
@@ -147,8 +147,8 @@
 
   .author__name {
     font-family: "Poppins", sans-serif;
-    font-size: 16px;
-    line-height: 16px;
+    font-size: 18px;
+    line-height: 18px;
     text-decoration: underline;
     &:hover {
       color: $gray-blue;
@@ -157,8 +157,8 @@
 
   .author__designation {
     font-family: "Poppins", sans-serif;
-    font-size: 14px;
-    line-height: 14px;
+    font-size: 16px;
+    line-height: 16px;
     &:hover {
       color: $gray-blue;
     }

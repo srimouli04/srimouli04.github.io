@@ -81,8 +81,11 @@ layout: default
 
         <div class="author-image-box">
           <a href="{{site.baseurl}}/about/" class="author__image" style="background-image: url({{site.baseurl}}{{site.author.image}})" aria-label="{{site.author.name}}"></a>
-          <a class="author__name" href="{{site.baseurl}}/about/">{{site.author.name}}</a>
-          <a class="author__designation">{{site.author.designation}}</a>
+          <div class="author">
+            <a class="author__name" href="{{site.baseurl}}/about/">{{site.author.name | escape}}</a>
+            <br/>
+            <span class="author__designation">{{site.author.designation | escape}}</span>
+          </div>
         </div>
 
         <div class="post__navigation">

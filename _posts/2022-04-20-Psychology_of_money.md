@@ -9,6 +9,7 @@ excerpt: "Navigating the Ethics of AI: Balancing Opportunities and Risks"
 image: /images/blog_posts/psychology_money_cover.jpg
 display_html_image: true
 tags: featured reading
+comments: true
 
 header-includes: |
     \usepackage{tikz,pgfplots}
@@ -37,3 +38,6 @@ The power of compounding is a concept that is often discussed in the world of fi
 One of the most interesting aspects of "The Psychology of Money" is the exploration of emotions and biases in financial decision-making. Our emotions and biases can affect our financial decisions in ways that we may not even realize. For example, the fear of missing out (FOMO) can lead us to make impulsive investment decisions, while the sunk cost fallacy can cause us to hold onto losing investments for too long. By understanding these biases and emotions, we can make more rational and informed financial decisions.
 
 In conclusion, "The Psychology of Money" is a valuable resource for anyone who wants to improve their relationship with money. By understanding the key ideas of the book, we can make smarter financial decisions, achieve our goals, and live a more fulfilling life.
+
+### Image Credits:
+<a href="https://www.pexels.com/photo/hard-cash-on-a-briefcase-259027/"> <b><u>Photo by Pixabay from Pexels</u></b>
