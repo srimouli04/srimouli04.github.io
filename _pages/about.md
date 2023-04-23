@@ -6,7 +6,7 @@ permalink: /about/
 #image: images/mouli_cover.png
 ---
 
-![](images/profile_images/mouli_cover.png)  
+![](/images/profile_images/mouli_cover.png)  
 
 Highly capable, creative, result oriented professional with strong technology background.
 

@@ -9,8 +9,8 @@ toc_icon: "list"
 canonical_url: "https://srimouli04.github.io/sound_and_emotion"
 excerpt: "How Sound Shapes Emotion"
 toc_sticky : false
-image: /images/blog_posts/autoencoder_architecture.png
-display_html_image: false
+image: /images/blog_posts/sound_and_emotion.png
+display_html_image: true
 
 header-includes: |
     \usepackage{tikz,pgfplots}
@@ -21,6 +21,7 @@ header-includes: |
     \fancyfoot[LE,RO]{\thepage}
 
 ---
+![](/images/blog_posts/sound_and_emotion.png)  
 
 Sound plays a crucial role in how we communicate and express our emotions. While the words we use convey the meaning of our message, the way we say them can greatly impact the emotion being conveyed. One of the most important aspects of sound in conveying emotion is intonation.
 

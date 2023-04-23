@@ -30,12 +30,12 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
-      {% if include.display_html_image %}
-        <img src= {{site.baseurl}}{{page.image}}>
-      {% endif %}
-      <!--div class="image-box">
-        <div class="post-image" style="background-image: url({{site.baseurl}}{{page.image}})"></div>
-      </div-->
+      <!--{% if include.display_html_image %}-->
+        <!--img src= {{site.baseurl}}{{page.image}}-->
+      <div class="image-box">
+        <div class="post-image" style="background-image: url({{site.baseurl}}{{page.image}})"> <img src= {{site.baseurl}}{{page.image}}> </div>
+      </div>    
+      <!--{% endif %}-->
     </div>
   </div>
 </div>
