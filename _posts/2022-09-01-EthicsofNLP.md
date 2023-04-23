@@ -6,7 +6,7 @@ author_profile: true
 title: "The Ethics of NLP: Implications for Privacy and Bias"
 canonical_url: "https://srimouli04.github.io/Inner Engineering"
 excerpt: "The Ethics of NLP: Implications for Privacy and Bias"
-image: /images/blog_posts/ethicsnlp.jpg/
+image: /images/blog_posts/ethics_nlp.jpg
 display_html_image: true
 tags: Deep learning
 comments: true
@@ -21,7 +21,7 @@ header-includes: |
 
 ---
 
-![](/images/blog_posts/ethicsnlp.jpg)
+![](/images/blog_posts/ethics_nlp.jpg)
 
 Natural Language Processing (NLP) has become an integral part of modern life, from virtual assistants like Siri and Alexa to automated translation services. However, as with any new technology, NLP also presents a number of ethical concerns. In this post, we will explore the ethical considerations surrounding the use of NLP, including issues of privacy and bias.
 
