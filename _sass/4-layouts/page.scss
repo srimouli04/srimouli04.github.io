@@ -1,0 +1,80 @@
+/* Page */
+.page-head-modified {
+  margin-top: 100px;
+  padding: 0px;
+  @media only screen and (max-width: $mobile) {
+    margin-top: 50px;
+    padding: 0;
+  }
+}
+
+.page-head {
+  margin-top: 100px;
+  padding: 0 40px;
+  @media only screen and (max-width: $mobile) {
+    margin-top: 50px;
+    padding: 0;
+  }
+}
+
+.page-head__title {
+  font-size: 48px;
+  line-height: 60px;
+  margin-bottom: 40px;
+  @media only screen and (max-width: $tablet) {
+    font-size: 38px;
+    line-height: 48px;
+  }
+  @media only screen and (max-width: $mobile) {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 20px;
+  }
+}
+
+.image-box {
+  padding: 40px 0;
+  margin: 0 40px 40px;
+  background: $light-gray;
+  @media only screen and (max-width: $tablet) {
+    padding: 0;
+  }
+  @media only screen and (max-width: $mobile) {
+    margin: 0 40px 20px;
+  }
+}
+
+
+.page-image {
+  display: block;
+  margin: 0 -40px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  &:after {
+    content: "";
+    display: table;
+    padding-top: 85%;
+  }
+}
+
+.page-image-fullwidth {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.image-container img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.image-container.square {
+  background-color: $light-gray;
+}

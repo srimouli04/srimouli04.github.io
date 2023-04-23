@@ -1,0 +1,89 @@
+title: Srimouli Borusu | Senior Research and Development Engineer, Amelia
+logo: /images/profile_images/Srimouli_logo.png
+description: Srimouli is a Senior Researcher working in the core AI ML team at Amelia. This is a space where he talks about his experiences in field of Artificial Intelligence, Machine and Deep learning.
+baseurl: "https://srimouli04.github.io" # the subpath of your site, e.g. /blog
+url: "srimouli04.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+brand: Srimouli Borusu
+
+# Author Settings
+author:
+  name: Srimouli Borusu
+  image: '/images/profile_images/Srimouli_Image.jpg'
+  twitter: srimouli04
+
+# Contact links
+# Example of adding a new link to the footer - {name: "Github", icon: "ion-logo-github", link: "https://github.com"}
+# Other icons can be found at https://ionicons.com
+contact:
+- {name: "Email", icon: "ion-ios-mail", link: "mailto:srimouli04@gmail.com"}
+
+# Slider Section
+slider: featured # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Featured". If you do not want to use the slider, leave the slider field empty.
+
+# Comment Section (Disqus)
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
+
+# Instagram Feed
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: https://www.instagram.com/srimouli04
+#userID: 6716400487
+#accessToken: 6716400487.1677ed0.4fae51c47bc544a895b81756a7d0c477
+
+# Google Analytics
+google-analytics: G-PCDTSBCK62 # Add your identifier. For example UA-99631805-1.
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+  - jekyll-archives
+  - jekyll-target-blank
+  - jekyll-feed
+
+paginate: 9
+paginate_path: "/page/:num"
+
+# Page Paths and Post Defaults
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+  - scope:
+      type: 'posts'
+    values:
+      permalink: /:year/:title:output_ext
+      layout: post
+      author: 'Srimouli Borusu'
+      excerpt-separator: '<!--more-->'
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# SEO
+twitter:
+  username: Srimouli
+  card: summary
+
+social:
+  name: Srimouli Borusu
+  links: 
+    - https://www.linkedin.com/in/srimoulib
+    - https://github.com/srimouli04
+
+#webmaster-verifications:
+#  google: Bf33sq73BdZ6Y87VK0NSpxnzBRVIXfqw1AcgsguePRY
+#  bing: 92ED59286A439C445807B3CD562366D3
+#  yandex: 7a3dd8b527403c95
