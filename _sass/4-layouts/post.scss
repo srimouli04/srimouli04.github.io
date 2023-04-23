@@ -231,3 +231,34 @@
     }
   }
 }
+
+/*
+   Page meta
+   ========================================================================== */
+
+   .page__meta {
+    margin-top: 2em;
+    color: $text-color;
+    font-family: "Poppins", sans-serif;;
+    font-size: 13;
+  
+    p {
+      margin: 0;
+    }
+  
+    a {
+      color: inherit;
+    }
+  }
+  
+  .page__meta-title {
+    margin-bottom: 10px;
+    font-size: 13;
+    text-transform: uppercase;
+  }
+  
+  .page__meta-sep::before {
+    content: "\2022";
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
