@@ -14,7 +14,7 @@ image: /images/blog_posts/gradient_checkpointing.png
 display_html_image: false
 tags: featured reading,R
 ---
-[![R Logo](https://srimouli04.github.io/r4beginners/images/blog_posts/R_logo.png)](https://srimouli04.github.io/r4beginners)
+![](/images/blog_posts/R-course.jpg){: .no-markdown}
 
 # Why R? Unleashing the Power of Data Science
 
