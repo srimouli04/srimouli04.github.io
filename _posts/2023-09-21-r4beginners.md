@@ -10,12 +10,10 @@ toc_icon: "list"
 canonical_url: "https://srimouli04.github.io/r4beginers"
 excerpt: "Gradient Checkpointing"
 toc_sticky : false
-image: /images/blog_posts/gradient_checkpointing.png
+image: /images/blog_posts/r_course.png
 display_html_image: false
 tags: featured reading,R
 ---
-![](/images/blog_posts/R-course.jpg){: .no-markdown}
-
 # Why R? Unleashing the Power of Data Science
 
 In today's data-driven world, the ability to transform raw data into actionable insights is a superpower coveted by businesses, researchers, and decision-makers across industries. The realm of data science stands as the gateway to harnessing this power, and within it, a versatile tool has emerged as a frontrunner – R.
@@ -26,4 +24,4 @@ Whether you're a seasoned data scientist or a novice eager to embark on a data-d
 
 Click the link to learn more about R
 
-[R-For-Beginners](https://srimouli04.github.io/r4beginers)
+<u>[R-For-Beginners](https://srimouli04.github.io/r4beginers)</u>
