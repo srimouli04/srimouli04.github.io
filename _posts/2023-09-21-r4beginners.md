@@ -27,4 +27,4 @@ Whether you're a seasoned data scientist or a novice eager to embark on a data-d
 
 Click the link to learn more about R
 
-<u>[R-For-Beginners](https://srimouli04.github.io/r4beginers)</u>
+[<u>R-For-Beginners</u>](https://srimouli04.github.io/r4beginers)
