@@ -1,6 +1,6 @@
 title: Srimouli Borusu | Senior Research and Development Engineer, Amelia
 logo: /images/profile_images/Srimouli_logo.png
-description: Srimouli is a Senior Researcher working in the core AI ML team at Amelia. This is a space where he talks about his experiences in field of Artificial Intelligence, Machine and Deep learning.
+description:  Srimouli, is a Lead AI Engineer at Ola Krutrim, drives innovation in Generative AI and cloud technologies, crafting scalable, cutting-edge AI solutions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "srimouli04.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 brand: Srimouli Borusu
@@ -8,7 +8,7 @@ words_per_minute         : 145
 # Author Settings
 author:
   name: Srimouli Borusu
-  designation: Senior Researcher @Amelia.ai
+  designation: Lead AI Engineer @Ola
   image: '/images/profile_images/Srimouli_Image.jpg'
   twitter: srimouli04
 
