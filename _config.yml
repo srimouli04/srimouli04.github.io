@@ -17,7 +17,7 @@ author:
 # Other icons can be found at https://ionicons.com
 contact:
 - {name: "Email", icon: "ion-ios-mail", link: "mailto:srimouli04@gmail.com"}
-
+ 
 # Slider Section
 slider: featured # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Featured". If you do not want to use the slider, leave the slider field empty.
 
