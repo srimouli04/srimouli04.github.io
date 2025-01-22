@@ -33,5 +33,5 @@ If you’re ready to take initiative and make an impact, fill out the form below
 <iframe src="https://v2-embednotion.com/180feadd944f8090a143d913a41d37e7" style="width: 100%; height: 1800px; border: 2px solid #ccc; border-radius: 1px; padding: none;"></iframe>
 
 ---
-
+      
 **PS:** Please note only resumes submitted via the form will be considered—it’s easier for me to keep track and stay organized!
