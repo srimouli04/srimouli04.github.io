@@ -10,7 +10,7 @@ excerpt: "A comprehensive 12-week program for C-suite executives and senior tech
 toc_sticky: true
 image: /images/blog_posts/course2.png
 display_html_image: false
-tags: featured course AI leadership enterprise agentic
+#tags: featured course AI leadership enterprise agentic
 ---
 
 # Enterprise Agentic AI Leadership Program
