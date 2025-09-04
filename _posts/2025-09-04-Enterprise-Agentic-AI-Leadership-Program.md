@@ -163,8 +163,7 @@ Traditional AI helped businesses automate tasks. **Agentic AI** goes a step furt
 - **Implementation planning:** 90-day quick wins, 6-month milestones, and 12-month transformation goals
 - **Resource allocation strategy:** Budget planning, team structure, vendor partnerships, and skill development
 - **Change management:** Organizational transformation, stakeholder buy-in, and cultural adaptation
-- **Team presentations:** Present comprehensive agentic AI strategy to peers and expert panel
-- **Peer review and feedback:** Industry expert evaluation and strategic recommendations
+- **Team presentations:** Present comprehensive agentic AI strategy to peers 
 - **Executive summary creation:** Board-ready presentation materials and business case documentation
 
 ---
