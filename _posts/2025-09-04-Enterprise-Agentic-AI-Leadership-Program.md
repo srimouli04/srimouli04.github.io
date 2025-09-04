@@ -17,9 +17,12 @@ display_html_image: false
 ## Strategic Implementation of Autonomous AI Systems for Business Leaders
 ![](/images/blog_posts/course2.png)
 
-Traditional AI delivered automation. **Agentic AI delivers intelligence that reasons, adapts, and acts autonomously** within your business context. This intensive program equips C-suite executives and senior technology leaders with the strategic framework to evaluate, design, and deploy agentic AI systems that drive measurable business outcomes.
+Traditional AI helped businesses automate tasks. **Agentic AI** goes a step further — it can think, adapt, and take action on its own within your business context. This program gives C-suite executives and senior technology leaders the tools and frameworks to understand, design, and deploy agentic AI systems that not only work intelligently but also drive real, measurable results and create a lasting competitive advantage.
 
-**Duration:** 12 weeks | 2 hours per session | Hybrid delivery (live + recorded)
+**Duration:** 
+- 12 weeks 
+- 2 hours per session 
+- Hybrid delivery (live + recorded)
 
 ---
 
@@ -231,7 +234,7 @@ Upon completion, participants will be able to:
 
 **Schedule:** Tuesdays 7:00 - 9:00 AM IST | All recordings available within 24 hours
 
-**Cohort Size:** Limited to maximum of 10 participants for maximum interaction and personalized attention
+**Cohort Size:** Limited to maximum of 15 participants for maximum interaction and personalized attention
 
 ---
 
