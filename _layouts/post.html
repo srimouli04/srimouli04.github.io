@@ -4,7 +4,7 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col col-7 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+    <div class="col col-12">
 
       <div class="post-head">
         <div class="post-info">
@@ -30,7 +30,7 @@ layout: default
 {% if page.image %}
 <div class="container">
   <div class="row">
-    <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+    <div class="col col-12">
       <!--{% if include.display_html_image %}-->
         <!--img src= {{site.baseurl}}{{page.image}}-->
       <div class="image-box">
@@ -44,7 +44,23 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+    {% if page.toc %}
+    <!-- TOC Sidebar -->
+    <aside class="col col-3 col-d-12 toc-sidebar">
+      <div class="toc-wrapper">
+        <h3 class="toc-title">Table of Contents</h3>
+        <nav class="toc-nav">
+          {% include toc.html html=content %}
+        </nav>
+      </div>
+    </aside>
+    
+    <!-- Main Content with TOC -->
+    <div class="col col-9 col-d-12 col-m-12">
+    {% else %}
+    <!-- Main Content without TOC -->
+    <div class="col col-12">
+    {% endif %}
       <!-- begin post -->
       <article class="post">
 
